@@ -2,12 +2,12 @@
   font-family: 'Material Icons';
   font-style: normal;
   font-weight: 400;
-  src: url(https://github.com/mateocyber/website/MaterialIcons-Regular.eot); /* For IE6-8 */
+  src: url(https://mateocyber.github.io/website/MaterialIcons-Regular.eot); /* For IE6-8 */
   src: local('Material Icons'),
        local('MaterialIcons-Regular'),
-       url(https://github.com/mateocyber/website/MaterialIcons-Regular.woff2) format('woff2'),
-       url(https://github.com/mateocyber/website/MaterialIcons-Regular.woff) format('woff'),
-       url(https://github.com/mateocyber/website/MaterialIcons-Regular.ttf) format('truetype');
+       url(https://mateocyber.github.io/website/MaterialIcons-Regular.woff2) format('woff2'),
+       url(https://mateocyber.github.io/website/MaterialIcons-Regular.woff) format('woff'),
+       url(https://mateocyber.github.io/website/MaterialIcons-Regular.ttf) format('truetype');
 }
 
 .material-icons {
