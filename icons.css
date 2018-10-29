@@ -21,3 +21,11 @@
   -webkit-font-feature-settings: 'liga';
   -webkit-font-smoothing: antialiased;
 }
+
+//Colors
+.material-icons.orange { color: #FB8C00; }
+.material-icons.red { color: #B00020; }
+.material-icons.blue { color: #0336FF; }
+.material-icons.green { color: #2E7D32; }
+.material-icons.yellow { color: #FFDE03; }
+.material-icons.teal { color: #00897b; }
